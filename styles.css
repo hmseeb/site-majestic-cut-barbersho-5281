@@ -46,6 +46,10 @@ body {
 
 img { max-width: 100%; height: auto; display: block; }
 
+/* The hidden attribute must always win over author display rules
+   (e.g. .form-success uses display:flex). */
+[hidden] { display: none !important; }
+
 h1, h2, h3 {
   font-family: var(--font-display);
   font-weight: 700;

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Majestic Cut Barbershop">
+  <rect width="64" height="64" rx="10" fill="#12100e"/>
+  <rect x="24" y="10" width="16" height="44" rx="8" fill="#f6f1e8"/>
+  <clipPath id="pole"><rect x="24" y="10" width="16" height="44" rx="8"/></clipPath>
+  <g clip-path="url(#pole)">
+    <g fill="#9e2b25">
+      <rect x="18" y="2" width="28" height="6" transform="rotate(35 32 32)"/>
+      <rect x="18" y="18" width="28" height="6" transform="rotate(35 32 32)"/>
+      <rect x="18" y="34" width="28" height="6" transform="rotate(35 32 32)"/>
+      <rect x="18" y="50" width="28" height="6" transform="rotate(35 32 32)"/>
+    </g>
+    <g fill="#2d4f8a">
+      <rect x="18" y="10" width="28" height="6" transform="rotate(35 32 32)"/>
+      <rect x="18" y="26" width="28" height="6" transform="rotate(35 32 32)"/>
+      <rect x="18" y="42" width="28" height="6" transform="rotate(35 32 32)"/>
+    </g>
+  </g>
+  <rect x="22" y="6" width="20" height="6" rx="3" fill="#e0ab42"/>
+  <rect x="22" y="52" width="20" height="6" rx="3" fill="#e0ab42"/>
+</svg>
